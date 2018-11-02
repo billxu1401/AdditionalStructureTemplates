@@ -10,3 +10,9 @@ Also add a picture of the structure to this [README](README.md) file.
 
 ### Well Entrance
 ![Well Entrance](https://github.com/Terasology/Mineshafts/raw/master/preview/WellEntrance.jpg)
+
+### Moai Head
+![Moai Head](https://i.imgur.com/p9IPZ4p.png)
+
+### Fountain
+![Fountain](https://i.imgur.com/DBI4kmN.png)
