@@ -10,3 +10,12 @@ Also add a picture of the structure to this [README](README.md) file.
 
 ### Well Entrance
 ![Well Entrance](https://github.com/Terasology/Mineshafts/raw/master/preview/WellEntrance.jpg)
+
+### Yard
+![Yard](https://github.com/RatMoleRat/AdditionalStructureTemplates/blob/master/preview/YardImg.PNG)
+
+### Barn
+![Barn](https://github.com/RatMoleRat/AdditionalStructureTemplates/blob/master/preview/BarnImg.PNG)
+
+### Greenhouse
+![Greenhouse](https://github.com/RatMoleRat/AdditionalStructureTemplates/blob/master/preview/GreenhouseImg.PNG)
