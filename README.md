@@ -21,7 +21,7 @@ Also add a picture of the structure to this [README](README.md) file.
 ![Greenhouse](https://github.com/RatMoleRat/AdditionalStructureTemplates/blob/master/preview/GreenhouseImg.PNG)
 
 ### Swimming Pool
-![Swimming Pool](https://imgur.com/a/9FjWJyA)
+![Swimming Pool](https://github.com/billxu1401/AdditionalStructureTemplates/blob/master/preview/Swimmingpool.png)
 
 ### Fallout Shelter
-![Fallout Shelter](https://imgur.com/a/wei62DI)
+![Fallout Shelter](https://github.com/billxu1401/AdditionalStructureTemplates/blob/master/preview/FalloutShelter.png)
