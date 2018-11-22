@@ -19,3 +19,9 @@ Also add a picture of the structure to this [README](README.md) file.
 
 ### Greenhouse
 ![Greenhouse](https://github.com/RatMoleRat/AdditionalStructureTemplates/blob/master/preview/GreenhouseImg.PNG)
+
+### Swimming Pool
+![Swimming Pool] (https://imgur.com/a/9FjWJyA)
+
+### Fallout Shelter
+![ Fallout Shelter] (https://imgur.com/a/wei62DI)
