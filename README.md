@@ -19,3 +19,9 @@ Also add a picture of the structure to this [README](README.md) file.
 
 ### Greenhouse
 ![Greenhouse](https://github.com/RatMoleRat/AdditionalStructureTemplates/blob/master/preview/GreenhouseImg.PNG)
+
+### Watch Tower
+![Watch Tower](https://github.com/MKDEVELOPEMENT/AdditionalStructureTemplates/blob/master/preview/watchTower.PNG)
+
+### Cell Tower
+![Cell Tower](https://github.com/MKDEVELOPEMENT/AdditionalStructureTemplates/blob/master/preview/CellTower.PNG)
