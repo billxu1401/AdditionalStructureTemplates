@@ -1,0 +1,25 @@
+{
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+            { "blockType": "Core:Stone", "region": { "min": [-3, 9, -2], "size": [9, 2, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [-3, 9, -1], "size": [9, 1, 7]}},
+            { "blockType": "Core:Stone", "region": { "min": [-3, 10, -1], "size": [1, 1, 7]}},
+            { "blockType": "Core:Stone", "region": { "min": [1, 8, -1], "size": [1, 1, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [5, 10, -1], "size": [1, 1, 7]}},
+            { "blockType": "Core:Stone", "region": { "min": [1, 7, 0], "size": [1, 2, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [0, 1, 1], "size": [3, 8, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [-2, 8, 2], "size": [3, 1, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [-1, 7, 2], "size": [2, 1, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [0, 1, 2], "size": [1, 6, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [2, 1, 2], "size": [1, 6, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [2, 7, 2], "size": [2, 1, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [2, 8, 2], "size": [3, 1, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [0, 1, 3], "size": [3, 8, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [1, 7, 4], "size": [1, 2, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [1, 8, 5], "size": [1, 1, 1]}},
+            { "blockType": "Core:Stone", "region": { "min": [-3, 9, 6], "size": [9, 2, 1]}}
+        ]
+    }
+}
