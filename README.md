@@ -41,3 +41,9 @@ Finally, create a PR to submit your creation here.
 
 ### Cell Tower
 ![Cell Tower](preview/CellTower.png)
+
+### Moai Head
+![Moai Head](preview/MoaiHead.png)
+
+### Fountain
+![Fountain](preview/Fountain.png)
