@@ -21,6 +21,12 @@ Finally, create a PR to submit your creation here.
 
 ## Available Structures
 
+### Glass Storage Room
+![Glass Storage Room](preview/GlassStorageRoom.png)
+
+### Beach Chill Zone
+![Beach Chill Zone](preview/BeachChillZone.png)
+
 ### Mountain Entrance
 ![Mountain Entrance](preview/MountainEntrance.jpg)
 
