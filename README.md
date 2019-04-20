@@ -53,3 +53,9 @@ Finally, create a PR to submit your creation here.
 
 ### Fountain
 ![Fountain](preview/Fountain.png)
+
+### Stage
+![Stage](preview/Stage.png)
+
+### Waterpool
+![Waterpool](preview/Waterpool.png)
